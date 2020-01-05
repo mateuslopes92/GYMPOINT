@@ -4,7 +4,7 @@ Desafio final do bootcamp gostack da rocketseat.
 ## Backend
 
 Este projeto se refere ao backend da aplicação Gympoint que foi desenvolvida durante o Bootcamp GoStack da [RocketSeat](https://https://rocketseat.com.br/) e é a primeira parte do desafio final.
-O repositório original do projeto pode ser encontrado na pasta backend.
+O repositório original do projeto pode ser encontrado [aqui](https://github.com/mateuslopes92/gympoint-backend). 
 
 ## :computer: Instalação e execução do backend.
 
@@ -25,7 +25,7 @@ O repositório original do projeto pode ser encontrado na pasta backend.
 ## Frontend
 
 Este projeto se refere ao backend da aplicação Gympoint que foi desenvolvida durante o Bootcamp GoStack da [RocketSeat](https://https://rocketseat.com.br/) e é a segunda parte do desafio final.
-O repositório original do projeto pode ser encontrado na pasta frontend.
+O repositório original do projeto pode ser encontrado [aqui](https://github.com/mateuslopes92/gympoint-web).
 
 ## :computer: Instalação e execução frontend
 Antes de executar este projeto, inicie o backend gympoint, que pode ser encontrado na pasta backend e siga as instrucoes acima . 
@@ -42,14 +42,14 @@ Antes de executar este projeto, inicie o backend gympoint, que pode ser encontra
 ## Mobile
 
 Este projeto se refere ao backend da aplicação Gympoint que foi desenvolvida durante o Bootcamp GoStack da [RocketSeat](https://https://rocketseat.com.br/) e é a terceira parte do desafio final.
-O repositório original do projeto pode ser encontrado na pasta frontend.
+O repositório original do projeto pode ser encontrado [aqui](https://github.com/mateuslopes92/gympoint_mobile).
 
 ## :computer: Instalação e execução mobile
 Antes de executar este projeto, inicie o backend gympoint, que pode ser encontrado na pasta backend e siga as instrucoes acima . 
 
-Faça um clone desse repositório;
-Entre na pasta rodando `cd GYMPOINT` `cd frontend`;
-Rode yarn para instalar as dependências;
-Rode yarn react-native run-ios ou yarn react-native run-android dependendo do SO para iniciar o client.
-Logue na aplicação usando o ID de usuário desejado (por exemplo, 1)
-PS: este projeto somente foi testado em emulador iPhone. Não foi testado no Android
+1. Faça um clone desse repositório;
+2. Entre na pasta rodando `cd GYMPOINT` `cd frontend`;
+3. Rode yarn para instalar as dependências;
+4. Rode react-native run-android ou yarn react-native run-ios dependendo do SO para iniciar o client;
+4. Logue na aplicação usando o ID de usuário desejado (por exemplo, 1);
+PS: este projeto somente foi testado em emulador Android. Não foi testado no IOS;
